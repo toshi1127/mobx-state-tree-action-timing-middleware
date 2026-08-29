@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/toshi1127/mobx-state-tree-action-timing-middleware#readme",
   "dependencies": {
-    "mobx-state-tree": "^3.15.0"
+    "mobx-state-tree": "^7.0.0"
   }
 }
